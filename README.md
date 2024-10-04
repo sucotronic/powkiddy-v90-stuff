@@ -5,3 +5,4 @@
 - Remove plastic on screen
 - Fix dpad cross detection: https://www.reddit.com/r/SBCGaming/comments/tin2cm/need_help_pressing_down_on_powkiddy_v90_moves/
 - Fix usb-c charging: https://www.nfriedly.com/techblog/2021-10-10-v90-usb-c/
+- Retrofil rumble: https://github.com/TriForceX/MiyooCFW/issues/363
